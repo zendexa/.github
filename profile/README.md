@@ -1,4 +1,6 @@
-## 👋 Welcome to Zendexa
+## Welcome👋
+
+An Application Management System (AMS) is a software solution or platform designed to facilitate the management and administration of various types of applications within an organization. These applications can range from software applications used for business processes to applications for membership, admissions, grants, scholarships, or any other form of submission-based process. The primary goal of an AMS is to streamline and automate the management, tracking, and decision-making processes related to these applications.
 
 <!--
 
